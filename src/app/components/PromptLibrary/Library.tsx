@@ -132,7 +132,7 @@ function CommunityPrompts(props: { insertPrompt: (text: string) => void }) {
       <span className="text-sm mt-5 block">
         Contribute on{' '}
         <a
-          href="https://github.com/chathub-dev/community-prompts"
+          href="https://github.com/marrycake/community-prompts"
           target="_blank"
           rel="noreferrer"
           className="underline"
